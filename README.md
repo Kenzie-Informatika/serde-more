@@ -1,11 +1,11 @@
-# serde-more
+# serde_more
 
 A Rust procedural macro to add arbitrary computed fields when serializing structs with [serde](https://serde.rs/).
 
-[![Crate](https://img.shields.io/crates/v/serde-more?logo=rust&style=flat-square&color=ebe94f)](https://crates.io/crates/serde-more)
+[![Crate](https://img.shields.io/crates/v/serde-more?logo=rust&style=flat-square)](https://crates.io/crates/serde-more)
 [![Docs](https://img.shields.io/docsrs/serde-more?logo=rust&style=flat-square)](https://docs.rs/serde-more)
 [![CI](https://img.shields.io/github/actions/workflow/status/j-g00da/serde-more/ci.yml?style=flat-square&logo=github)](https://github.com/j-g00da/serde-more/blob/main/.github/workflows/ci.yml)
-[![Deps](https://deps.rs/crate/serde-more/latest/status.svg?style=flat-square)](https://deps.rs/crate/serde-more)
+[![Deps](https://deps.rs/crate/serde_more/latest/status.svg?style=flat-square)](https://deps.rs/crate/serde_more)
 
 ## Examples
 
